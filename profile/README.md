@@ -1,4 +1,3 @@
-# Profile
 # 20250317 - Java AWS
 
 ### Capstone Project Info
