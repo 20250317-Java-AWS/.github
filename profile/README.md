@@ -10,7 +10,7 @@
 ### Angular Mini Project
  - [Project Checklist](https://github.com/20250317-Java-AWS/Notes/blob/main/project-checklist.md)
 
-### Demos
+### [Demos](https://github.com/20250317-Java-AWS/Notes/tree/main/Demos)
  - [Angular demo 1](https://github.com/20250317-Java-AWS/Notes/blob/main/Demos/Angular-Demo-1/angular-demo-1)
  - [Angular demo 2](https://github.com/20250317-Java-AWS/Notes/blob/main/Demos/angular-demo-2)
  - [Angular demo 3](https://github.com/20250317-Java-AWS/Notes/blob/main/Demos/angular-demo-3)
